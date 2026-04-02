@@ -34,6 +34,9 @@ Source article:
 | Storage | 100 GB | SSD preferred |
 | Network | Ethernet for reliable WoL | Ethernet |
 
+## Example
+http://127.0.0.1:8501/
+
 ## Quick start
 
 ### 1. Install Python and Ollama
